@@ -27,8 +27,8 @@ start_time = datetime.datetime.now(datetime.timezone.utc)
 
 with open("config/config.json", "r") as file:
     config = json.load(file)
-    token = config.get("token")
-    prefix = config.get("prefix")
+    token = config.get("Njc5MzI5Njg0NDU4MTc2NTEz.G5CoTq.6XXdz2fwlJnqZak5fUBRg1NOxCpgvuRpRO0k_8")
+    prefix = config.get("*")
     message_generator = itertools.cycle(config["autoreply"]["messages"])
 
 def save_config(config):
