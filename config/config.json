@@ -1,14 +1,14 @@
 {
-    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "token": "MTE3NDE5MDQ4NjQ2NzEyNTMwMA.Gp8ioz.uhVp7KhoGjW7yWZP8jg0O0vGlpjKlk-NjFapzo",
     "prefix": ".",
-    "remote-users": [],
+    "remote-users": [1174190486467125300],
     "autoreply": {
         "messages": [
             "https://github.com/AstraaDev/Discord-SelfBot",
             "https://discord.gg/PKR7nM9j9U"
         ],
         "channels": [],
-        "users": []
+        "users": [1174190486467125300]
     },
     "afk": {
         "enabled": false,
